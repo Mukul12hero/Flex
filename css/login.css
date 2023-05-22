@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.login-form{
+    width: 50%;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form input{
+    margin-top: 1em;
+    font-size: 1.5em;
+    padding: 5px 10px;
+}
